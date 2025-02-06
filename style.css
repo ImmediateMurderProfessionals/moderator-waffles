@@ -1,7 +1,6 @@
 body {
   background-image: url("Background.png");
-  background-size: 320px 320px;
-  font-family: "Comic Sans MS", serif;
+  font-family: "Comic Sans MS";
 }
 
 blockquote {
@@ -33,3 +32,7 @@ table {
 }
 
 td, th {
+  border: 1px solid #000000;
+  text-align: left;
+  padding: 10px;
+}
